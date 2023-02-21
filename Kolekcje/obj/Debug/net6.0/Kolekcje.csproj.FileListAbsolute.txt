@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\VS\Kolekcje\bin\Debug\net6.0\Kolekcje.exe
+C:\Users\student\Desktop\VS\Kolekcje\bin\Debug\net6.0\Kolekcje.deps.json
+C:\Users\student\Desktop\VS\Kolekcje\bin\Debug\net6.0\Kolekcje.runtimeconfig.json
+C:\Users\student\Desktop\VS\Kolekcje\bin\Debug\net6.0\Kolekcje.dll
+C:\Users\student\Desktop\VS\Kolekcje\bin\Debug\net6.0\Kolekcje.pdb
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.AssemblyInfo.cs
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.dll
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\refint\Kolekcje.dll
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.pdb
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\Kolekcje.genruntimeconfig.cache
+C:\Users\student\Desktop\VS\Kolekcje\obj\Debug\net6.0\ref\Kolekcje.dll
